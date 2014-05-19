@@ -1,0 +1,27 @@
+{
+  "name": "fp-animate",
+  "version": "0.0.0",
+  "description": "A small library providing functional-programming oriented utility functions for animating.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reem/fp-animate"
+  },
+  "keywords": [
+    "functional",
+    "programming",
+    "animation"
+  ],
+  "author": "Jonathan Reem <jonathan.reem@gmail.com> (http://www.jonathanreem.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reem/fp-animate/issues"
+  },
+  "homepage": "https://github.com/reem/fp-animate",
+  "dependencies": {
+    "lazy.js": "^0.3.2"
+  }
+}
